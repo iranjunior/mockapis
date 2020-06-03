@@ -1,0 +1,12 @@
+{
+  "name": "mockApi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/iranjunior/mockapis.git",
+  "author": "Iran Junior <iran.pereira@mundiale.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "start": "json-server --watch  response.js   --routes routes.json --middlewares changeMethod.js",
+  }
+
+}
