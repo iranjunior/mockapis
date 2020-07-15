@@ -1,3 +1,5 @@
 {
-    "/wit-api/api/tabulator/pending-intents": "/pending-intent"
+    "/wit-api/api/tabulator/pending-intents": "/pending-intent",
+    "/tickets/pending/*": "/pendents-tickets",
+    "/tickets/*/details": "/tickets-details"
 }

@@ -6,7 +6,7 @@
   "author": "Iran Junior <iran.pereira@mundiale.com.br>",
   "license": "MIT",
   "scripts": {
-    "start": "json-server --watch  response.js   --routes routes.json --middlewares changeMethod.js",
+    "start": "json-server --watch  response.js   --routes routes.json --middlewares changeMethod.js"
   }
 
 }
